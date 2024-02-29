@@ -22,3 +22,5 @@ interface Peixe{
 }
 let meuPeixe: Peixe = {especie: 'Carpa', idade: 2};
 console.log(`O peixe ${meuPeixe}`);
+
+//execicio 3
